@@ -1,0 +1,2 @@
+# sw-core
+SportWise Core
